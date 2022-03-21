@@ -20,7 +20,7 @@ public class STRINGMARAVILLOSO {
 
     public static void generarPartSuperior() {
         
-        String M = "MARAVILLOSO ";
+        String M = "MARAVILLOSO";
 
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i = 0; i < M.length(); i++) {
