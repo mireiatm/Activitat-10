@@ -63,6 +63,7 @@ public class STRINGMARAVILLOSO {
                 System.out.print(M.charAt(j));
             }
             System.out.println();
+                System.out.println("LA versió que tenim a github ha esta actualitzada i és més actual que la que tinc en local");
         }
 
     }
